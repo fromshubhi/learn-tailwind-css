@@ -1,0 +1,35 @@
+<ul class="container mx-auto divide-y divide-gray-400 divide-dotted" style="font-family: Raleway">
+  <li class="flex items-center justify-between px-4 py-2">
+    <div class="flex flex-wrap w-full">
+      <span class="inline w-32 h-16 bg-red-500 text-white px-3 py-2 rounded-md mr-1 mb-1">1</span>
+      <span class="inline w-32 h-16 bg-green-500 text-white px-3 py-2 rounded-md mr-1 mb-1">2</span>
+      <span class="inline w-32 h-16 bg-blue-500 text-white px-3 py-2 rounded-md mr-1 mb-1">3</span>
+      <span class="inline w-32 h-16 bg-yellow-300 text-white px-3 py-2 rounded-md mr-1 mb-1">4</span>
+    </div>
+    <div class="ml-5 text-right">
+      <span class="text-xs font-semibold inline-block font-mono whitespace-nowrap px-2 py-1 rounded text-white bg-pink-500 rounded-2 mb-1">flex-wrap</span>
+    </div>
+  </li>
+  <li class="flex items-center justify-between px-4 py-2">
+    <div class="flex flex-wrap-reverse w-full">
+      <span class="inline w-32 h-16 bg-red-500 text-white px-3 py-2 rounded-md mr-1 mb-1">1</span>
+      <span class="inline w-32 h-16 bg-green-500 text-white px-3 py-2 rounded-md mr-1 mb-1">2</span>
+      <span class="inline w-32 h-16 bg-blue-500 text-white px-3 py-2 rounded-md mr-1 mb-1">3</span>
+      <span class="inline w-32 h-16 bg-yellow-300 text-white px-3 py-2 rounded-md mr-1 mb-1">4</span>
+    </div>
+    <div class="ml-5 text-right">
+      <span class="text-xs font-semibold inline-block font-mono whitespace-nowrap px-2 py-1 rounded text-white bg-pink-500 rounded-2 mb-1">flex-wrap-reverse</span>
+    </div>
+  </li>
+  <li class="flex items-center justify-between px-4 py-2">
+    <div class="flex flex-nowrap w-full">
+      <span class="inline w-32 h-16 bg-red-500 text-white px-3 py-2 rounded-md mr-1 mb-1">1</span>
+      <span class="inline w-32 h-16 bg-green-500 text-white px-3 py-2 rounded-md mr-1 mb-1">2</span>
+      <span class="inline w-32 h-16 bg-blue-500 text-white px-3 py-2 rounded-md mr-1 mb-1">3</span>
+      <span class="inline w-32 h-16 bg-yellow-300 text-white px-3 py-2 rounded-md mr-1 mb-1">4</span>
+    </div>
+    <div class="ml-5 text-right">
+      <span class="text-xs font-semibold inline-block font-mono whitespace-nowrap px-2 py-1 rounded text-white bg-pink-500 rounded-2 mb-1">flex-nowrap</span>
+    </div>
+  </li>
+</ul>
