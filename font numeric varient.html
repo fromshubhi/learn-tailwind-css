@@ -1,0 +1,77 @@
+<ul class="container mx-auto divide-y divide-gray-400 divide-dotted">
+  <li class="flex items-center justify-between px-4 py-2">
+    <div>
+      <div class="font-sans font-light text-4xl align-middle mb-2" style="font-family: 'Source Sans Pro'">42nd</div>
+      <div class="text-xs font-mono font-light text-gray-500 mt-2"><span class="font-bold">font-variant-numeric: </span>: normal</div>
+    </div>
+    <div class="text-xs font-semibold font-mono whitespace-nowrap px-2 py-1 ml-5 rounded text-white bg-pink-500 rounded-2">normal-nums</div>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <div>
+      <div class="ordinal font-sans font-light text-4xl align-middle mb-2" style="font-family: 'Source Sans Pro'">42nd</div>
+      <div class="text-xs font-mono text-gray-500 mt-2"><span class="font-bold">font-variant-numeric</span>: ordinal</div>
+    </div>
+    <div class="text-xs font-semibold font-mono whitespace-nowrap px-2 py-1 ml-5 rounded text-white bg-pink-500 rounded-2">ordinal</div>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <div>
+      <div class="slashed-zero font-sans font-light text-4xl align-middle mb-2" style="font-family: 'Source Sans Pro'">20,000</div>
+      <div class="text-xs font-mono font-light text-gray-500 mt-2"><span class="font-bold">font-variant-numeric</span>: slashed-zero</div>
+    </div>
+    <div class="text-xs font-semibold font-mono whitespace-nowrap px-2 py-1 ml-5 rounded text-white bg-pink-500 rounded-2">slashed-zero</div>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <div>
+      <div class="slashed-zero font-sans font-light text-4xl align-middle mb-2" style="font-family: 'Source Sans Pro'">802,701</div>
+      <div class="text-xs font-mono font-light text-gray-500 mt-2"><span class="font-bold">font-variant-numeric</span>: lining-nums</div>
+    </div>
+    <div class="text-xs font-semibold font-mono whitespace-nowrap px-2 py-1 ml-5 rounded text-white bg-green-500 rounded-2">lining-nums</div>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <div>
+      <div class="oldstyle-nums font-sans font-light text-4xl align-middle mb-2" style="font-family: 'Source Sans Pro'">299,792,458</div>
+      <div class="text-xs font-mono font-light text-gray-500 mt-2"><span class="font-bold">font-variant-numeric</span>: oldstyle-nums</div>
+    </div>
+    <div class="text-xs font-semibold font-mono whitespace-nowrap px-2 py-1 ml-5 rounded text-white bg-green-500 rounded-2">oldstyle-nums</div>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <div>
+      <div class="proportional-nums font-sans font-light text-4xl align-middle" style="font-family: 'Source Sans Pro'">01-01-1885</div>
+      <div class="proportional-nums font-sans font-light text-4xl align-middle mb-2" style="font-family: 'Source Sans Pro'">11-12-1955</div>
+      <div class="text-xs font-mono font-light text-gray-500 mt-2"><span class="font-bold">font-variant-numeric</span>: proportional-nums</div>
+    </div>
+    <div class="text-xs font-semibold font-mono whitespace-nowrap px-2 py-1 ml-5 rounded text-white bg-blue-500 rounded-2">proportional-nums</div>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <div>
+      <div class="tabular-nums font-sans font-light text-4xl align-middle" style="font-family: 'Source Sans Pro'">01-01-1885</div>
+      <div class="tabular-nums font-sans font-light text-4xl align-middle mb-2" style="font-family: 'Source Sans Pro'">11-12-1955</div>
+      <div class="text-xs font-mono font-light text-gray-500 mt-2"><span class="font-bold">font-variant-numeric</span>: tabular-nums</div>
+    </div>
+    <div class="text-xs font-semibold font-mono whitespace-nowrap px-2 py-1 ml-5 rounded text-white bg-blue-500 rounded-2">tabular-nums</div>
+  </li>
+
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <div>
+      <div class="diagonal-fractions font-sans font-light  text-4xl align-middle mb-2">1/2</div>
+      <div class="text-xs font-mono font-light text-gray-500 mt-2"><span class="font-bold">font-variant-numeric</span>: diagonal-fractions</div>
+    </div>
+    <div class="text-xs font-semibold font-mono whitespace-nowrap px-2 py-1 ml-5 rounded text-white bg-yellow-400 rounded-2">diagonal-fractions</div>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <div>
+      <div class="stacked-fractions font-mono font-light  text-4xl align-middle mb-2" style="font-family: 'Ubuntu Mono'">1/2</div>
+      <div class="text-xs font-mono font-light text-gray-500 mt-2"><span class="font-bold">font-variant-numeric</span>: stacked-fractions</div>
+    </div>
+    <div class="text-xs font-semibold font-mono whitespace-nowrap px-2 py-1 ml-5 rounded text-white bg-yellow-400 rounded-2">stacked-fractions</div>
+  </li>
+
+</ul>
