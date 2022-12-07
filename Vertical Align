@@ -1,0 +1,43 @@
+<ul class="container mx-auto divide-y divide-gray-400 divide-dotted" style="font-family: Raleway">
+ <li class="flex items-center justify-between px-4 py-2">
+    <li class=" inline-block align-baseline">
+    Now this is a story all about how, my life got flipped-turned upside down
+    </li>
+ <span class="text-xs font-semibold font-mono whitespace-nowrap placeholder-red-100 px-2 py-1 ml-5 rounded text-white bg-pink-500 rounded-2">	align-baseline;	</span>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <li class=" inline-block align-top">
+    Now this is a story all about how, my life got flipped-turned upside down
+    </li>
+ <span class="text-xs font-semibold font-mono whitespace-nowrap placeholder-red-100 px-2 py-1 ml-5 rounded text-white bg-pink-500 rounded-2">	align-top;	</span>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <li class=" inline-block 	align-middle">
+    Now this is a story all about how, my life got flipped-turned upside down
+    </li>
+ <span class="text-xs font-semibold font-mono whitespace-nowrap placeholder-red-100 px-2 py-1 ml-5 rounded text-white bg-pink-500 rounded-2">	align-middle	</span>
+  </li>
+ <li class="flex items-center justify-between px-4 py-2">
+    <li class=" inline-block align-bottom">
+    Now this is a story all about how, my life got flipped-turned upside down
+    </li>
+ <span class="text-xs font-semibold font-mono whitespace-nowrap placeholder-red-100 px-2 py-1 ml-5 rounded text-white bg-pink-500 rounded-2">	align-bottom;	</span>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <li class=" inline-block align-text-top">
+    Now this is a story all about how, my life got flipped-turned upside down
+    </li>
+ <span class="text-xs font-semibold font-mono whitespace-nowrap placeholder-red-100 px-2 py-1 ml-5 rounded text-white bg-pink-500 rounded-2">	align-text-top;	</span>
+  </li>
+
+  <li class="flex items-center justify-between px-4 py-2">
+    <li class=" inline-block align-text-bottom">
+    Now this is a story all about how, my life got flipped-turned upside down
+    </li>
+ <span class="text-xs font-semibold font-mono whitespace-nowrap placeholder-red-100 px-2 py-1 ml-5 rounded text-white bg-pink-500 rounded-2">	 align-text-bottom;	</span>
+  </li>
+
+</ul> 
