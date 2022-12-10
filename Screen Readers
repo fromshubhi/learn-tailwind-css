@@ -1,0 +1,15 @@
+<ul class="container mx-auto divide-y divide-gray-400 divide-dotted" style="font-family: Raleway">
+  <li class="flex items-center justify-between px-4 py-2">
+    <div class="flex flex-col items-center justify-center">
+        <div class="w-1/2">
+          <img class="w-24" src="http://pixelprowess.com/i/powship.svg" alt="POW Logo">
+          <p class="sr-only lg:not-sr-only text-gray-500 text-2xl text-blue-300 leading-none">Lorem ipsum dolor sit amet consectetur adipisicing elit impedit officia fugiat mollitia alias ex quas modi.</p>
+          <p>Voluptatibus ad distinctio, modi sed praesentium nobis quas non aperiam, recusandae illum, animi sit labore cumque in obcaecati cum laboriosam voluptas consectetur. Voluptate voluptates porro aliquid ut maiores, quidem rem!</p>
+        </div>
+    </div> 
+    <div class="ml-5 text-right">
+      <div class="text-xs font-semibold inline-block font-mono whitespace-nowrap px-2 py-1 rounded text-white bg-pink-500 rounded-2 mb-1">sr-only</div>
+      <div class="text-xs font-semibold inline-block font-mono whitespace-nowrap px-2 py-1 rounded text-white bg-pink-500 rounded-2">not-sr-only</div>
+    </div>
+  </li>
+</ul>
